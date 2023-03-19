@@ -1,6 +1,6 @@
 
 ## Assalamaualaikum
-## Termux-Style
+## SDL-Style
 * `This Tool Is For Styling Termux.By This Tool You Will Get a Login Method.Also You Can Remove Any Types Of Banner By This Tool`
 
 ## Commands & Usage:⬇️
@@ -11,8 +11,8 @@ pkg upgrade -y
 pkg install python -y
 pkg install git -y
 git clone https://github.com/DARK-NI/Termux-Style
-cd Termux-Style
-python banner.dark_ni
+cd SDL-Style
+python banner.Saiyadul
 ````
 * Now Give Your Name & Password
 * Then Exit Your Termux And Open Again
